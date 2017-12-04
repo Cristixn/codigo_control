@@ -1,0 +1,9 @@
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.exe.config
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\Inventario.codigo_de_control.resources
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.Properties.Resources.resources
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.csproj.GenerateResource.Cache
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.Form1.resources
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.exe
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.pdb
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.exe
+c:\users\ronald.ramos\documents\visual studio 2015\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.pdb
